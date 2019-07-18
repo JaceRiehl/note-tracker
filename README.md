@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dependencies:
+- react quill 
+- materials/core
+- materials/icons
+- firebase
 
 ## Available Scripts
 
