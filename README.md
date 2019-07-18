@@ -2,6 +2,7 @@ Dependencies:
 - react quill 
 - materials/core
 - materials/icons
+- firebase
 
 ## Available Scripts
 
