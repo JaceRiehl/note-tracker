@@ -13,7 +13,7 @@ class SideBarItemComponent extends React.Component {
     }
 
     render() {
-        return (<div>From the editor</div>)
+        return (<div>From the sidebaritem</div>)
     }
 }
 
