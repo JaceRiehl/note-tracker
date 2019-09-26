@@ -4,6 +4,7 @@
     <list default="true" id="2a14d704-f133-4d41-b180-8b0e93a208b6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/editor/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/editor/editor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sidebarItem/sidebarItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebarItem/sidebarItem.js" afterDir="false" />
     </list>
@@ -55,7 +56,8 @@
       <updated>1563414805948</updated>
       <workItem from="1563414809546" duration="2736000" />
       <workItem from="1563497467400" duration="1080000" />
-      <workItem from="1569369835517" duration="3464000" />
+      <workItem from="1569369835517" duration="4128000" />
+      <workItem from="1569454528300" duration="5521000" />
     </task>
     <servers />
   </component>
@@ -67,7 +69,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -70,16 +70,14 @@ class SideBarComponent extends React.Component {
 
     updateTitle = (text) => {
         this.setState({title: text})
-    }
+    };
     newNote = () => {
-        console.log(this.state);
-    }
-    selectNote = () => {
-        console.log()
-    }
-    deleteNote = () => {
-        console.log()
-    }
+        this.props.newNote(this.state.title);
+        this.setState({title: null, addingNote: false})
+    };
+    selectNote = (n,i) => this.props.selectNote(n, i);
+    deleteNote = (note) => this.props.deleteNote(note);
+
 }
 
 export default withStyles(styles)(SideBarComponent)
